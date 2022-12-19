@@ -3,7 +3,7 @@ I'm a CTO passionate about innovation and people. 💡  <br>Shoot me an email or
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-alberto-ihon-muhlmann-b3179b163) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alberto-ihon-muhlmann-b3179b163) 
 
 # 💻 Tech Stack:
 
