@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a CTO passionate about innovation and people. 💡  <br>Shoot me an email or add me on LinkedIn! 😉
+I'm a passionate about innovation and people. 💡  <br>Shoot me an email or add me on LinkedIn! 😉
 
 
 ## 🌐 Socials:
