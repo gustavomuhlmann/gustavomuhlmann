@@ -3,7 +3,7 @@ As a technology professional with a passion for innovation and problem-solving, 
 
 
 ## 🌐 Socials:
-[![Github Pages](https://img.shields.io/badge/https%3A%2F%2Fgustavomuhlmann.github.io%2Ffirst-personal-lp%2F?logo=github&label=GithubPages)](https://gustavomuhlmann.github.io/first-personal-lp/)
+[![Github Pages](https://img.shields.io/badge/https%3A%2F%2Fgustavomuhlmann.github.io%2Ffirst-personal-lp%2F?logo=github&label=GithubPages)](https://gustavomuhlmann.github.io/gmuhlmann-landingpage/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alberto-ihon-muhlmann-b3179b163) 
 
 
